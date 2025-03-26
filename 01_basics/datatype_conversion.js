@@ -24,5 +24,6 @@ console.log(data)
 
 //empty string ""= false
 //"abc" = true 
+// let variable_name = variable_type (variable)
 
 
