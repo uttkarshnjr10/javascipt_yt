@@ -11,3 +11,5 @@ let address;
 //string = ""
 address = "patna";
 console.log(address)
+console.log(typeof name)
+//typeof is use to know the variable type
